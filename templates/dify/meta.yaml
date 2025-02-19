@@ -14,7 +14,7 @@ links:
   - label: Documentation
     url: https://docs.dify.ai
   - label: Github
-    url: https://github.com/langgenius/dify
+    url: https://github.com/langgenius/dify.git
 contributors:
   - name: Serban Alexandru
     url: https://github.com/serban-alexandru
